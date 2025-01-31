@@ -2,8 +2,6 @@
 
 ### 🚀 First-year university student at Salim Habib University passionate about web development and open-source
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 ## 🔥 About Me
 - 🎓 First-year university student at **Salim Habib University**
 - 💻 Passionate about **Web Development** and **Open-Source**
@@ -17,9 +15,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📊 GitHub Stats
-![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+## 🌟 Fun Facts About Me
+- 🏆 I love solving coding challenges and building cool projects.
+- 📚 Always eager to learn new technologies and frameworks.
+- 🎯 My goal is to contribute to open-source projects and make an impact.
+- 🎨 I also enjoy UI/UX design and creating visually appealing web pages.
+
+## 🎯 Current Focus
+- 🚀 Enhancing my JavaScript and C++ skills.
+- 🏗️ Working on exciting web projects.
+- 📖 Learning about backend development.
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
